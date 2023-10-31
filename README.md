@@ -2,6 +2,8 @@
 
 Application for cout and classify vehicles. Softawre detect vehicles, classify it and build trajectory.
 
+Demo gif in repo.
+
 UI is clear WPF. Buisness logic implemented using c#. Detector is YoloV7. OpenCV is used for calculate speed and length of cars.   
 
 There are a lot of different settigns displaying video during measurement and save data file. 
